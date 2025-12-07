@@ -1,3 +1,10 @@
+# Hi there, I'm Adam 👋
+
+## Who am I
+I'm a high school student passionate about coding, tech, and building projects that challenge me to learn new skills every day. I love exploring different technologies and applying them in creative ways.
+
+## What am I currently working on
+I’m currently working on personal projects to improve my programming skills and gain practical experience. My projects focus on [mention your type of projects, e.g., web development, cybersecurity experiments, AI, etc.]. You can check them out in my repositories!  
 
 
 
