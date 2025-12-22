@@ -1,7 +1,7 @@
 # Hi, I'm Adam 👋
 I’m a student focused on cybersecurity. Skilled at researching systems and figuring things out, and always picking up new techniques. 
 
-Experienced with tools and practical security work on a daily basis.
+I know **every Kali Linux tool and exactly how to make it do what I want**.  
 
 ### What am I currently working on
 Building different tools and scripts, keeping up with CTFs, and joining competitions whenever I can. Experimenting with new techniques, exploring exploits, and staying active in the cybersecurity scene.
@@ -45,20 +45,36 @@ I also run a small homelab that I take care of more than I probably should.
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="Bash"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="fedora" title="fedora"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="fedora" title="Fedora"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png" alt="Linux Mint" title="Linux Mint"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/monero.png" alt="Monero" title="Monero"/></code>
 </div>
+<br>
+<p align="center" style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img height="32" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Home_Lab-2C2C2C?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=apache&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/HTTP%2FHTTPS-0052CC?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=hackerone&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=protonvpn&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Digital_Forensics-4A148C?style=for-the-badge" />
+  <img height="32" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
+  <img height="32" src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Password_Cracking-8B0000?style=for-the-badge&logo=hashnode&logoColor=white" />
+</p>
 
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daradkeh69&layout=compact&theme=radical" />
+</p>
