@@ -1,7 +1,7 @@
 # Hi, I'm Adam 👋
 I’m a student focused on cybersecurity. Skilled at researching systems and figuring things out, and always picking up new techniques. 
 
-I know **every Kali Linux tool and exactly how to make it do what I want**.  
+I’m very comfortable with Kali Linux and know how to effectively use and adapt its tools for real world scenarios.
 
 ### What am I currently working on
 Building different tools and scripts, keeping up with CTFs, and joining competitions whenever I can. Experimenting with new techniques, exploring exploits, and staying active in the cybersecurity scene.
@@ -10,6 +10,7 @@ Building different tools and scripts, keeping up with CTFs, and joining competit
 Good with Linux, networking, and programming. Experienced in different areas of cybersecurity like penetration testing and vulnerability assessment.
 
 I also run a small homelab that I take care of more than I probably should.
+With a SIEM setup.
 
 ### 👨‍💻 Learn more about me at https://daradkeh69.github.io/personal-portfolio/
 
