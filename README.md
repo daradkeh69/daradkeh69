@@ -1,4 +1,8 @@
-# Hi, I'm Adam 👋
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=39FF14&center=true&vCenter=true&width=440&height=45&lines=Hi+There!">
+  </a>
+</h1>
 I’m a student focused on cybersecurity. Skilled at researching systems and figuring things out, and always picking up new techniques. 
 
 I’m very comfortable with Kali Linux and know how to effectively use and adapt its tools for real world scenarios.
@@ -21,7 +25,6 @@ With a **SIEM setup**.
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="Raspberri Pi" title="Raspberri Pi"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
@@ -44,5 +47,7 @@ With a **SIEM setup**.
   <img height="32" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
   <img height="32" src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Password_Cracking-8B0000?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Password_Cracking-8B0000?style=for-the-badge&logo=hashnode&logoColor=white" />	
+  <img height="32" src="https://img.shields.io/badge/Wireshark-273FF5?style=for-the-badge&logo=hashnode&logoColor=white" />	
 </p>
+
