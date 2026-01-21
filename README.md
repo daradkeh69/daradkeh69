@@ -5,7 +5,7 @@
 </h1>
 I’m a student focused on cybersecurity. Skilled at researching systems and figuring things out, and always picking up new techniques. 
 <br> <br>
-I’m very comfortable with Kali Linux and know how to effectively use and adapt its tools for real world scenarios.
+I’m very comfortable with Linux Distributions overall and know how to effectively use and adapt Kali and its tools for real world scenarios.
 
 ### What am I currently working on
 Building different tools and scripts, keeping up with CTFs, and joining competitions whenever I can. Experimenting with new techniques, exploring exploits, and staying active in the cybersecurity scene.
